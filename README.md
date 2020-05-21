@@ -2,7 +2,7 @@
 Covid-19 datasets of Malaysia 
 * Total case (National)
 * Total case (by states)
-* Positive cases among children and babies (by states)
+* Positive cases among children and babies (by states) as of 20 May 2020
 
 ## Source of dataset
 The data are collected based on various unstructured sources and multiple platforms as listed below. Even though the data accuracy could not be confirmed, some of sources such as DG & MOH are highly reliable, where new cases are reported & announced daily. Other sources are utilized for cross-check purpose.
