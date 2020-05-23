@@ -4,10 +4,14 @@ This directory consists of both Covid-19 datasets & data visualization for Malay
 ### Datasets
 * Total case (National).
 * Total case (by states).
-* Positive cases among children and babies (by states). *as of 21 May 2020
+* Positive cases among children and babies. *as of 21 May 2020
+* Total death case by age. *as of 21 May 2020
+
 
 ### Visualizations
-* Barplot of Positive cases among children and babies (by states). *as of 21 May 2020
+* Barplot of positive cases among children and babies by age. *as of 21 May 2020
+* Histogram of total death case by age. *as of 21 May 2020
+
 
 ## Source of dataset
 The data are collected based on various unstructured sources and multiple platforms as listed below. Even though the data accuracy could not be confirmed, some of sources such as DG & MOH are highly reliable, where new cases are reported & announced daily. Other sources are utilized for cross-check purpose.
