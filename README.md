@@ -1,12 +1,12 @@
 # covid-19-Malaysia
 This directory consists of both Covid-19 datasets & data visualization for Malaysia.
 
-### Datasets:
+### Datasets
 * Total case (National).
 * Total case (by states).
 * Positive cases among children and babies (by states). *as of 21 May 2020
 
-### Visualizations:
+### Visualizations
 * Barplot of Positive cases among children and babies (by states). *as of 21 May 2020
 
 ## Source of dataset
